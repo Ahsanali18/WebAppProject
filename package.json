@@ -1,0 +1,16 @@
+{
+  "name": "student-registration-system",
+  "version": "1.0.0",
+  "description": "Student Registration System - MUET Jamshoro",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "start": "npx http-server -p 8080"
+  },
+  "keywords": ["student", "registration", "muet"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
